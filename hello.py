@@ -3,4 +3,4 @@ def add(x, y):
 
 
 result = add(1, 2)
-print("this is the sum {} {} : {}".format(1, 2, result))
+print('this is the sum {} {} : {}'.format(1, 2, result))
