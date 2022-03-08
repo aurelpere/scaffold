@@ -18,6 +18,6 @@ jobs:
     - name: test with pytest
       run: |
         make test
-    - name : format with black
+    - name : format with blue
       run: |
         make format
