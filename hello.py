@@ -1,3 +1,6 @@
+#!/usr/bin/python3
+# coding: utf-8
+"""this is a hello.py file"""
 def add(x, y):
     return x + y
 
