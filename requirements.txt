@@ -1,5 +1,6 @@
 pylint
 pytest
-click
-blue
 pytest-cov
+yapf
+genbadge
+defusedxml
